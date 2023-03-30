@@ -24,7 +24,7 @@ const AboutTwo = () => {
               {/* Sidebar personal information for mobile devices */}
               <HomeCard />
             </div>
-            <div className="lg:grid grid-cols-12 md:gap-10 pt-4 md:pt-[30px] items-center hidden ">
+            <div className="lg:grid grid-cols-12 md:gap-10 pt-4 md:pt-[30px] items-center  ">
               <div className="col-span-12 space-y-2.5">
                 <div className="lg:mr-16">
                   <p className="text-gray-lite  dark:text-color-910 leading-7">
