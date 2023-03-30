@@ -46,7 +46,7 @@ const tiers = [
     name: 'Premium',
     href: '#',
     priceMonthly: 700,
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit.',
+    description: 'Get a Fully Premium customized website or project with advanced features and functionality.',
     features: [
       'Fully customized design and layout',
       'Full customization',
