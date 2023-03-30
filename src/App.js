@@ -11,7 +11,7 @@ import HomeTwo from "./Pages/Home/HomeTwo";
 import PortfiloTwo from "./Pages/Portfilo/PortfiloTwo";
 import ResumeTwo from "./Pages/Resume/ResumeTwo";
 import NotFound from "./Share/NotFound";
-import { Helmet } from "react-helmet";
+import { HelmetProvider } from "react-helmet-async";
 
 function App() {
   useEffect(() => {
@@ -20,7 +20,7 @@ function App() {
   }, []);
   return (
     <>
-      <Helmet>
+      <HelmetProvider>
         <title>ismailbentabett</title>
         <meta
           name="description"
@@ -60,7 +60,7 @@ function App() {
           content="https://scontent.ftlm1-2.fna.fbcdn.net/v/t39.30808-6/326070679_5776791742438597_7519612538097957996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZaoLmy8iffMAX9yib3y&_nc_ht=scontent.ftlm1-2.fna&oh=00_AfC2Qu3P39Gdeb7yxyndjOILb6oBAQU5UjY9o0DmCpNJHw&oe=642A3A70"
         />
         
-      </Helmet>
+      
       <ContextProvider>
         <HashRouter>
           <Routes>
@@ -76,6 +76,7 @@ function App() {
           </Routes>
         </HashRouter>
       </ContextProvider>
+      </HelmetProvider>
     </>
   );
 }
