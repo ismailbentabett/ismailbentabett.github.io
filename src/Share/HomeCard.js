@@ -14,6 +14,8 @@ import {
 } from "react-icons/fa";
 import img from "../assets/images/about/avatar.jpg";
 import downloadIcon from "../assets/images/download.png";
+import { Link } from "react-router-dom";
+import myPDF from '../assets/pdfs/cv.pdf';
 
 const HomeCard = () => {
   return (
@@ -137,8 +139,7 @@ const HomeCard = () => {
           </div>
           <button  className="flex items-center mx-auto bg-gradient-to-r from-[#00a9bf] to-[#00a9bf] duration-200 transition ease-linear hover:bg-gradient-to-l from-[#00a9bf]  to-[#00a9bfef] px-8 py-3 text-lg text-white rounded-[35px] mt-6">
             <img src={downloadIcon} alt="icon" className="mr-2" />
-            <a href="../assets/pdfs/cv.pdf" download>Download CV</a>
-            
+            <a href={myPDF} download="cv.pdf"> Download Cv </a>
           </button>
         </div>
       </div>
