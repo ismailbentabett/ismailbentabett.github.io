@@ -62,7 +62,7 @@ const HomeCard = () => {
 
             {/* linkedin link add here */}
             <a
-              href="https://www.linkedin.com/ismailbentabett"
+              href="https://www.linkedin.com/in/ismailbentabett/"
               target="_blank"
               rel="noopener noreferrer"
             >
