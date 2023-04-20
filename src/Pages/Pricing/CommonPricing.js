@@ -68,7 +68,7 @@ const CommonBlog = ({ items, count }) => {
   const blogDescriptionSplit = singleData?.description?.split("\n");
   return (
     <>
-      <PageTitle title="Blog"></PageTitle>
+      <PageTitle title="Pricing"></PageTitle>
       {/* End pagetitle */}
 
       <section className="bg-white  lg:rounded-2xl dark:bg-[#111111]">
