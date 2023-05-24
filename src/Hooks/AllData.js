@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
 import silikan from "../assets/images/work_images/ismailbentabett/silikan.png";
+import screamer from "../assets/images/work_images/ismailbentabett/screamer.png";
 import bmicalc from "../assets/images/work_images/ismailbentabett/bmi-calc.png";
 import angularionic from "../assets/images/work_images/ismailbentabett/angular-ionic.jpg";
 import mevn from "../assets/images/work_images/ismailbentabett/mevn.jpg";
@@ -206,8 +207,7 @@ import sincerus from "../assets/images/work_images/ismailbentabett/sincerus.png"
       langages: "Figma",
       link: "https://github.com/silikan",
       linkText: "github.com/silikan",
-      description:
-        "UI UX DESIGN OF THE SILIKAN PLATFORM",
+      description: "UI UX DESIGN OF THE SILIKAN PLATFORM",
     },
     {
       id: "6",
@@ -264,6 +264,20 @@ import sincerus from "../assets/images/work_images/ismailbentabett/sincerus.png"
       linkText: "sincerus.shop",
       description:
         "Our women's clothing line brand is dedicated to empowering women through fashionable and comfortable clothing. Our website showcases our latest collections and commitment to sustainability and ethical manufacturing practices. We offer a wide range of products, including dresses, tops, pants, and accessories, available for purchase online. We celebrate women of all shapes and sizes and aim to make shopping for our collection easy and convenient.",
+    },
+    {
+      id: "10",
+      tag: "Software",
+      title: "Screamer",
+      img: screamer,
+      imgSmall: screamer,
+      bg: "#FCF4FF",
+      client: "Screamer",
+      langages: ".Net Web Api 7 , Angular 16 , Signalr , Tailwind ... ",
+      link: "https://github.com/ismailbentabett/Screamer",
+      linkText: "Screamer",
+      description:
+        "a 'Special' social media platform for annoying twitter people who like to scream their pointless views on other people faces    ",
     },
   ];
   const [data, setData] = useState(workItems);
