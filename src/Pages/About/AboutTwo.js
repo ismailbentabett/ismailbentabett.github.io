@@ -28,9 +28,9 @@ const AboutTwo = () => {
               <div className="col-span-12 space-y-2.5">
                 <div className="lg:mr-16">
                   <p className="text-gray-lite  dark:text-color-910 leading-7">
-                    A Multi Talented , multi disciplinary Freelance Full-Stack
-                    Software developer and UI/UX Designer , Computer Science
-                    Student , Business enthusiast
+                    Six-year Full Stack Engineer experienced in small and large
+                    teams. Proficient in designing and implementing
+                    user-friendly Web/Mobile applications
                   </p>
                   <p className="text-gray-lite leading-7 mt-2.5 dark:text-color-910">
                     Creative problem-solver who enjoys finding elegant solutions
