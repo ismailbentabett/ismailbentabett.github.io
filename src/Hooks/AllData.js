@@ -8,6 +8,8 @@ import mevn from "../assets/images/work_images/ismailbentabett/mevn.jpg";
 import shortcut from "../assets/images/work_images/ismailbentabett/shortcut.jpg";
 import figma from "../assets/images/work_images/ismailbentabett/figma.png";
 import sigservice from "../assets/images/work_images/ismailbentabett/sig-service.png";
+import trp from "../assets/images/work_images/ismailbentabett/trp-france.png";
+import concours from "../assets/images/work_images/ismailbentabett/concours.png";
 import sincerus from "../assets/images/work_images/ismailbentabett/sincerus.png";
 
 // blog post images
@@ -278,6 +280,33 @@ import sincerus from "../assets/images/work_images/ismailbentabett/sincerus.png"
       linkText: "Screamer",
       description:
         "a 'Special' social media platform for annoying twitter people who like to scream their pointless views on other people faces    ",
+    },
+    {
+      id: "11",
+      tag: "Software",
+      title: "Fashion Context Site For a Client (uunamed) dev a consulting",
+      img: concours,
+      imgSmall: concours,
+      bg: "#E9FAFF",
+      client: "Client",
+      langages: "Laravel , Tailwind ...",
+      link: "https://github.com/ismailbentabett",
+      linkText: "github.com/ismailbentabett",
+      description: " Fashion Context Site For a Client (uunamed) ",
+    },
+    {
+      id: "12",
+      tag: "Software",
+      title: "EURL TRP",
+      img: trp,
+      imgSmall: trp,
+      bg: "#E9FAFF",
+      client: "EURL TRP",
+      langages: "Lravel , Filamentphp , Vue , Pinia , Tailwind ...",
+      link: "https://trp-france.fr",
+      linkText: "trp-france.fr",
+      description:
+        "EURL Télécom Radio Professionnel .Motorola Solutions France",
     },
   ];
   const [data, setData] = useState(workItems);
