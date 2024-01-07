@@ -15,7 +15,7 @@ import {
 import img from "../assets/images/about/avatar.jpg";
 import downloadIcon from "../assets/images/download.png";
 import { Link } from "react-router-dom";
-import myPDF from '../assets/pdfs/cv.pdf';
+import myPDF from "../assets/pdfs/cv.pdf";
 
 const HomeCard = () => {
   return (
@@ -32,7 +32,7 @@ const HomeCard = () => {
             ISMAIL BENTABET
           </h1>
           <h3 className="mb-4 text-[#7B7B7B] inline-block dark:bg-[#1D1D1D] px-5 py-1.5 rounded-lg dark:text-[#A6A6A6]  ">
-            Software Engineer
+            Software engineer | Vue.js | Nuxt | Typescript
           </h3>
 
           {/* Social Links */}
@@ -92,7 +92,10 @@ const HomeCard = () => {
 
           {/* personal information */}
           <div className="p-7 rounded-2xl mt-7  bg-[#F3F6F6] dark:bg-[#1D1D1D]">
-            <a href="tel:+213794753644" className="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] pb-2.5">
+            <a
+              href="tel:+213794753644"
+              className="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] pb-2.5"
+            >
               <span className="socialbtn bg-white dark:bg-black text-[#E93B81] shadow-md">
                 <FaMobileAlt />
               </span>
@@ -103,7 +106,10 @@ const HomeCard = () => {
                 <p className="dark:text-white">+213 794 753 644</p>
               </div>
             </a>
-            <a href="mailto:ismailbentabett@gmail.com" className="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] py-2.5">
+            <a
+              href="mailto:ismailbentabett@gmail.com"
+              className="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] py-2.5"
+            >
               <span className="socialbtn bg-white dark:bg-black text-[#6AB5B9] shadow-md">
                 <FaEnvelopeOpenText />
               </span>
@@ -137,9 +143,12 @@ const HomeCard = () => {
               </div>
             </div>
           </div>
-          <button  className="flex items-center mx-auto bg-gradient-to-r from-[#00a9bf] to-[#00a9bf] duration-200 transition ease-linear hover:bg-gradient-to-l from-[#00a9bf]  to-[#00a9bfef] px-8 py-3 text-lg text-white rounded-[35px] mt-6">
+          <button className="flex items-center mx-auto bg-gradient-to-r from-[#00a9bf] to-[#00a9bf] duration-200 transition ease-linear hover:bg-gradient-to-l from-[#00a9bf]  to-[#00a9bfef] px-8 py-3 text-lg text-white rounded-[35px] mt-6">
             <img src={downloadIcon} alt="icon" className="mr-2" />
-            <a href={myPDF} download="cv.pdf"> Download Cv </a>
+            <a href={myPDF} download="cv.pdf">
+              {" "}
+              Download Cv{" "}
+            </a>
           </button>
         </div>
       </div>
