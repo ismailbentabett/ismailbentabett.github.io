@@ -560,9 +560,15 @@ import sincerus from "../assets/images/work_images/ismailbentabett/sincerus.png"
       bg1: "#F2F4FF",
 
       id2: "06",
-      date2: "2020 - Present",
-      title2: "Freelancer",
-      place2: "Freelance",
+      date2: "2023 - Present",
+      title2: "Full Stack Engineer",
+      place2: "EURL Télécom Radio Professionnel (TRP)",
+      bg2: "#EEF5FA",
+
+      id3: "06",
+      date2: "2023 - Present",
+      title2: "Full Stack Engineer",
+      place2: "EURL Télécom Radio Professionnel (TRP)",
       bg2: "#EEF5FA",
     },
     {
