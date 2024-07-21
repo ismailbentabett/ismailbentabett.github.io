@@ -18,6 +18,7 @@
   "dependencies": {
     "@types/node": "^20.9.2",
     "aos": "^2.3.4",
-    "bootstrap": "^5.3.2"
+    "bootstrap": "^5.3.2",
+    "emailjs-com": "^3.2.0"
   }
 }
