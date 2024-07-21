@@ -7,13 +7,16 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "predeploy": "npm run generate",
+    "deploy": "gh-pages -d .output/public"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "nuxt": "^3.8.1",
     "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "gh-pages": "^5.0.0"
   },
   "dependencies": {
     "@types/node": "^20.9.2",
