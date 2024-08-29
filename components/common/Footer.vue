@@ -1,12 +1,7 @@
-
 <script setup>
- 
- // get full year 
- const year = new Date().getFullYear();
-
+// get full year
+const year = new Date().getFullYear();
 </script>
-
-
 
 <template>
   <!-- Footer -->
@@ -14,7 +9,7 @@
     <div class="container">
       <div class="footer-content text-center">
         <NuxtLink to="/" class="logo">
-          <img src="~/assets/images/logo.svg" alt="Logo">
+          <img src="~/assets/images/logo.svg" alt="Logo" />
         </NuxtLink>
         <ul class="footer-menu">
           <li><NuxtLink to="/">Home</NuxtLink></li>
@@ -23,10 +18,16 @@
           <li><NuxtLink to="/contact">Contact</NuxtLink></li>
         </ul>
         <p class="copyright">
-         © {{ year }} All rights reserved by <span>ThemeMascot</span>
+          © {{ year }} All rights reserved by
+          <span>
+            <a
+              href="https://www.github.com/ismailbentabett"
+              target="_blank"
+              >ismailbentabett</a
+            >
+          </span>
         </p>
       </div>
     </div>
   </footer>
 </template>
-

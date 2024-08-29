@@ -5,9 +5,4 @@ export default defineNuxtConfig({
     "~/assets/css/style.css",
   ],
   plugins: [{ src: "@/plugins/aos", ssr: false }],
-
-  app: {
-    baseURL: "/ismailbentabett.github.io/", // Use your repository name
-    buildAssetsDir: "/ismailbentabett.github.io/_nuxt/",
-  },
 });

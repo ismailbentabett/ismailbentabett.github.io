@@ -21,7 +21,7 @@
               <div class="right">
                 <span>Contact Us</span>
                 <h4>+213 794753644</h4>
-                <h4>+213 673005660</h4>
+                <h4>+213 556175000</h4>
               </div>
             </li>
             <li class="d-flex align-items-center" data-aos="zoom-in">

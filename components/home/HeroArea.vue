@@ -124,11 +124,11 @@
               <div class="about-profile-box info-box shadow-box h-full">
                 <img src="~/assets/images/bg1.png" alt="BG" class="bg-img" />
                 <div class="inner-profile-icons shadow-box">
-                  <a href="#">
-                    <i class="iconoir-dribbble"></i>
+                  <a href="https://www.github.com/ismailbentabett">
+                    <i class="iconoir-github"></i>
                   </a>
-                  <a href="#">
-                    <i class="iconoir-twitter"></i>
+                  <a href="https://www.linkedin.com/in/ismailbentabett">
+                    <i class="iconoir-linkedin"></i>
                   </a>
                 </div>
                 <div class="d-flex align-items-center justify-content-between">
@@ -158,12 +158,12 @@
               </div>
 
               <div class="client-item">
-                <h1>+125</h1>
+                <h1>+39</h1>
                 <p>CLIENTS <br />WORLDWIDE</p>
               </div>
 
               <div class="client-item">
-                <h1>+210</h1>
+                <h1>+50</h1>
                 <p>Total <br />Projects</p>
               </div>
             </div>
