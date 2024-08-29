@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
-  target: "static", // Ensure target is set to static
+  target: "static", // Set the target to 'static' for generating static files
   router: {
-    base: "/ismailbentabett.github.io/", // Replace with your repository name
+    base: "/ismailbentabett.github.io/", // Set the base URL to match your repository name
   },
   css: [
     "~/assets/css/iconoir.css",

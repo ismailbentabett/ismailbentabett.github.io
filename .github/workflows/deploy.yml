@@ -1,9 +1,9 @@
 name: Deploy to GitHub Pages
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,25 +14,21 @@ jobs:
         with:
           node-version: "20"
       - run: npm install
-      - run: npm run generate
-      - name: Build with GitHub Pages preset
+      - name: Build Nuxt Application
         env:
           NUXT_APP_BASE_URL: "/ismailbentabett.github.io/"
-        run: npx nuxt build --preset github_pages
+        run: npm run generate
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./.output/public
+          path: .output/public
+
   deploy:
     needs: build
+    runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
-    environment:
-      name: github_pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
