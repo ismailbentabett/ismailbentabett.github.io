@@ -5,7 +5,7 @@
 <template>
   <!-- Breadcrumb -->
   <section class="breadcrumb-area">
-    <div class="container">
+<!--     <div class="container">
       <div class="breadcrumb-content" data-aos="fade-up">
         <p>BRANDING - RAVEN STUDIO</p>
         <h1 class="section-heading"><img src="~/assets/images/star-2.png" alt="Star"> Aesthetic design for brand <br>new
@@ -14,7 +14,6 @@
     </div>
   </section>
 
-  <!-- Project Details -->
   <section class="project-details-wrap">
     <div class="project-details-img" data-aos="zoom-in">
       <img src="~/assets/images/project-dt-1.jpeg" alt="Project Details">
@@ -123,7 +122,7 @@
       <a href="#" class="big-btn shadow-box">
         Next Project
       </a>
-    </div>
+    </div> -->
 
   </section>
 </template>
