@@ -1,3 +1,3 @@
 
-- developer by jamil rayhan
-- jamilrayhan100@gmail.com
+- developer by ISMAIL BENTABET
+- ismailbentabett@gmail.com
