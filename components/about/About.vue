@@ -20,14 +20,12 @@
             <img src="~/assets/images/icon2.png" alt="Star" />
             <h1>ISMAIL BENTABET</h1>
             <p>
-              Front-end developer with 7 years of experience specializing in
-              Vue.js and modern front-end technologies. Experienced in working
-              with small and large teams to create responsive, dynamic, and
-              user-friendly web applications. Eager to relocate for exciting
-              opportunities and contribute expertise in Vue.js, Nuxt.js, and the
-              latest front-end frameworks. A self-motivated and lifelong learner
-              passionate about developing interactive and high-performance user
-              interfaces.
+              Front-End Developer with 5 years of experience in creating
+              responsive, dynamic web applications using Vue.js, Nuxt.js, and
+              other modern front-end technologies. Strong skills in developing
+              high-performance user interfaces and collaborating effectively
+              with teams of all sizes. Completed over 1,000+ hours of work on
+              Upwork, demonstrating reliability and a strong work ethic.
             </p>
           </div>
         </div>
