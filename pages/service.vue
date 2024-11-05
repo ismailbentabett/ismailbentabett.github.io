@@ -1,7 +1,7 @@
 
 <script setup>
 useHead({
-  title: "Ismail Bentabet Service -Front-end Developer Portfolioe",
+  title: "Ismail Bentabet Service - Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js, TypeScript",
 });
 
 

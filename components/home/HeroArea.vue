@@ -26,10 +26,22 @@
               <div class="banner shadow-box">
                 <div class="marquee">
                   <div>
-                    <span
-                      >LATEST WORK AND <b>FEATURED</b> <img src="~/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> <img src="~/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> <img src="~/assets/images/star1.svg" alt="Star" /> LATEST WORK AND
-                      <b>FEATURED</b> LATEST WORK AND <img src="~/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> LATEST WORK AND <img src="~/assets/images/star1.svg" alt="Star"
-                    /></span>
+                    <span>
+                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
+                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                      <img src="~/assets/images/star1.svg" alt="Star" />
+                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
+                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                      <img src="~/assets/images/star1.svg" alt="Star" />
+                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
+                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                      <img src="~/assets/images/star1.svg" alt="Star" />
+                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
+                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                      <img src="~/assets/images/star1.svg" alt="Star" />
+                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
+                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                    </span>
                   </div>
                 </div>
               </div>
@@ -41,7 +53,9 @@
                   <NuxtLink class="overlay-link" to="/credentials"></NuxtLink>
                   <img src="~/assets/images/bg1.png" alt="BG" class="bg-img" />
                   <img src="~/assets/images/sign.png" alt="Sign" />
-                  <div class="d-flex align-items-center justify-content-between">
+                  <div
+                    class="d-flex align-items-center justify-content-between"
+                  >
                     <div class="infos">
                       <h4>more about me</h4>
                       <h1>Credentials</h1>
@@ -59,7 +73,9 @@
                   <NuxtLink class="overlay-link" to="/works"></NuxtLink>
                   <img src="~/assets/images/bg1.png" alt="BG" class="bg-img" />
                   <img src="~/assets/images/my-works.png" alt="My Works" />
-                  <div class="d-flex align-items-center justify-content-between">
+                  <div
+                    class="d-flex align-items-center justify-content-between"
+                  >
                     <div class="infos">
                       <h4>SHOWCASE</h4>
                       <h1>Projects</h1>
@@ -151,7 +167,9 @@
         <div class="col-md-6" data-aos="zoom-in">
           <div class="about-client-box info-box shadow-box">
             <img src="~/assets/images/bg1.png" alt="BG" class="bg-img" />
-            <div class="clients d-flex align-items-start gap-24 justify-content-center">
+            <div
+              class="clients d-flex align-items-start gap-24 justify-content-center"
+            >
               <div class="client-item">
                 <h1>05</h1>
                 <p>Years <br />Experience</p>
