@@ -12,7 +12,7 @@
             <div class="infos">
               <h4>Front-end WEB Developer</h4>
               <h1>ISMAIL BENTABET.</h1>
-              <p>I am a Front-end Developer specializing in Vue.js.</p>
+              <p>Expert Front-End Developer | Angular | Vue | React</p>
               <NuxtLink href="#" class="about-btn">
                 <img src="~/assets/images/icon.svg" alt="Button" />
               </NuxtLink>
@@ -27,20 +27,15 @@
                 <div class="marquee">
                   <div>
                     <span>
-                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
-                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                     Expert Front-End Developer | Angular | Vue | React
                       <img src="~/assets/images/star1.svg" alt="Star" />
-                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
-                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                     Expert Front-End Developer | Angular | Vue | React
                       <img src="~/assets/images/star1.svg" alt="Star" />
-                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
-                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                     Expert Front-End Developer | Angular | Vue | React
                       <img src="~/assets/images/star1.svg" alt="Star" />
-                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
-                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                     Expert Front-End Developer | Angular | Vue | React
                       <img src="~/assets/images/star1.svg" alt="Star" />
-                      Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js,
-                      TypeScript | 1400+ Hours on Upwork | 100% Job Success 🏆
+                     Expert Front-End Developer | Angular | Vue | React
                     </span>
                   </div>
                 </div>

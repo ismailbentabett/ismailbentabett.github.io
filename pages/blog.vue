@@ -1,7 +1,7 @@
 
 <script setup> 
 useHead({
-  title: "Ismail Bentabet Blog - Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js, TypeScript",
+  title: "Ismail Bentabet Blog -Expert Front-End Developer | Angular | Vue | React, TypeScript",
 })
 </script>
 
