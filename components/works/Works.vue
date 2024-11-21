@@ -107,7 +107,7 @@
                   <div class="project-info">
                     <p>Telecommunications Management</p>
                     <h1>Telecom Radio Professionnel | Motorola Solutions Platform</h1>
-                    <p>Role: Full Stack Developer</p>
+                    <p>Role: Front end Developer</p>
                     <p>Skills: Laravel, Vue.js, Docker, MySQL</p>
                   </div>
                   <NuxtLink to="/work-details" class="project-btn">
@@ -128,7 +128,7 @@
                   <div class="project-info">
                     <p>Startup Platform Development</p>
                     <h1>Shortcut</h1>
-                    <p>Role: Co-founder and Full Stack Engineer</p>
+                    <p>Role: Co-founder and Front end Engineer</p>
                     <p>Skills: Vue.js, Leadership, Entrepreneurship, NestJS</p>
                   </div>
                   <NuxtLink to="/work-details" class="project-btn">
@@ -172,7 +172,7 @@
                   <div class="project-info">
                     <p>Social Media Platform</p>
                     <h1>Sweetr</h1>
-                    <p>Role: Full Stack Developer</p>
+                    <p>Role: Front end Developer</p>
                     <p>Skills: JavaScript, Firebase</p>
                   </div>
                   <NuxtLink to="/work-details" class="project-btn">

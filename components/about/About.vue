@@ -20,58 +20,40 @@
             <img src="~/assets/images/icon2.png" alt="Star" />
             <h1>ISMAIL BENTABET</h1>
             <p>
-              <span aria-hidden="true"
-                ><!---->👋 Hi, I'm Ismail Bentabet, a Full-Stack Developer with
-                5 years of experience specializing in TypeScript, Vue.js, and
-                Laravel. I create secure, scalable web applications with
-                optimized front-end and back-end performance. I’m skilled in
-                building responsive UIs and robust APIs that meet both user
-                needs and business goals. Fluent in English, I excel at
-                collaborating with cross-functional teams to deliver impactful
-                solutions.<!----><br /><br /><!---->Portfolio :
-                ismailbentabett.com<!----><br /><!---->GitHub:
-                github.com/ismailbentabett<!----><br /><!---->Upwork:
-                upwork.com/freelancers/ismailbentabett<!----><br /><!---->Malt:
-                https://www.malt.com/profile/ismailbentabet<!----><br /><!---->Contra:
-                https://contra.com/ismailbentabet<!----><br /><br /><!---->HIGHLIGHTS<!----><br /><br /><!---->🌟
-                Core Expertise:<!----><br /><br /><!---->Front-End Development:
-                Advanced skills in Vue.js, Nuxt.js, React, JavaScript (ES6+),
-                HTML5, CSS3, Tailwind CSS, and Bootstrap for dynamic,
-                user-focused interfaces.<!----><br /><!---->Back-End
-                Development: Proficiency in Node.js, Express.js, PHP, Laravel,
-                SQL (MySQL, PostgreSQL), and NoSQL (MongoDB, Firebase) for
-                high-performance server-side applications.<!----><br /><!---->Full-Stack
-                Integration: Seamless integration of front-end and back-end
-                technologies for optimal user experiences.<!----><br /><!---->DevOps
-                and Deployment: Experience with Docker, AWS (EC2, S3, Lambda),
-                CI/CD pipelines (GitHub Actions, GitLab CI), and Version Control
-                (Git) for efficient development and deployment.<!----><br /><!---->Performance
-                Optimization: Skilled with tools like Webpack, Vite, Jest,
-                Cypress, and Mocha for testing, debugging, and optimizing
-                performance.<!----><br /><!---->CURRENT FOCUS<!----><br /><br /><!---->🔍
-                Active Projects:<!----><br /><br /><!---->Building
-                high-performance web applications using Nuxt.js and Vue.js.<!----><br /><!---->Developing
-                secure, scalable APIs with Node.js and Express.js, utilizing
-                PostgreSQL and MongoDB.<!----><br /><!---->Leveraging TypeScript
-                for clean, maintainable codebases across the stack.<!----><br /><!---->TECH
-                STACK<!----><br /><br /><!---->🛠 Core Skills:<!----><br /><br /><!---->Languages:
-                TypeScript, JavaScript (ES6+), PHP, HTML5, CSS3, SQL<!----><br /><!---->Frameworks
-                &amp; Libraries: Vue.js, Nuxt.js, React, Node.js, Express,
-                Laravel<!----><br /><!---->Databases: PostgreSQL, MySQL,
-                MongoDB, Firebase<!----><br /><!---->Tools &amp; Platforms:
-                Docker, AWS, Git, GitHub, GitLab, Vercel, NGINX<!----><br /><!---->Testing:
-                Jest, Cypress, Mocha, ESLint, Prettier<!----><br /><!---->SKILLS
-                TO LEARN<!----><br /><br /><!---->📘 Next Goals:<!----><br /><br /><!---->Master
-                Next.js for server-side rendering and static site generation.<!----><br /><!---->Expand
-                knowledge in Microservices Architecture using Docker and
-                Kubernetes.<!----><br /><!---->Explore advanced GraphQL and
-                serverless technologies like AWS Lambda.<!----><br /><!---->WHY
-                CHOOSE ME?<!----><br /><br /><!---->🚀 I bring a mix of
-                technical expertise, creativity, and a passion for building
-                effective solutions. Dedicated to continuous learning and
-                delivering high-quality software, I’m ready to make an impact.<!----><br /><br /><!---->Let's
-                connect and create something great together! 🤝<!----></span
-              >
+              👋 Ismail Bentabet | ⭐ Front-End Developer | Vue, React,
+              Angular<br /><br />
+              Experienced Front-End Developer specializing in Vue.js, React,
+              Angular with a proven track record delivering high-performance,
+              responsive, scalable web applications. Over 5 years of experience
+              crafting modern front-end solutions optimized to achieve SEO,
+              speed, and user engagement. Skilled in creating interactive user
+              interfaces, dynamic components, and efficient architectures
+              tailored to projects of varying scale.<br /><br />
+              🌟 <strong>Key Expertise</strong><br /><br />
+              Vue.js: Expert in building fast, responsive applications tailored
+              to reactivity, speed, and user experience.<br />
+              React: Proficient in designing modular, reusable components
+              ensuring seamless scalability and superior performance.<br />
+              Angular: Advanced skills in developing feature-rich,
+              enterprise-grade platforms with optimized workflows.<br /><br />
+              📈 <strong>Career Highlights</strong><br /><br />
+              Built interactive Vue.js dashboards tailored to data-driven
+              applications with enhanced performance.<br />
+              Created scalable React components enhancing e-commerce platforms
+              by improving load times and retention.<br />
+              Developed robust Angular systems tailored to enterprise needs with
+              exceptional maintainability and reliability.<br />
+              Delivered SEO-driven solutions highlighting smooth navigation,
+              accessibility, and superior user experience.<br />
+              Optimized applications achieving speed and engagement using
+              advanced techniques in Vue.js, React, and Angular.<br /><br />
+              🚀 <strong>Frameworks and Technologies</strong><br /><br />
+              Vue.js, React, Angular, JavaScript, TypeScript, Nuxt.js, Next.js,
+              Tailwind CSS, APIs, Docker, Node.js.<br /><br />
+              Transforming concepts into scalable front-end solutions using Vue,
+              React, and Angular. Passionate about delivering high-performing
+              applications across devices, achieving SEO optimization, and
+              exceptional user engagement.
             </p>
           </div>
         </div>
@@ -85,24 +67,31 @@
 
             <ul>
               <li>
-                <p class="date">Jan 2024 – Present</p>
-                <h2>Vue Front-end Engineer</h2>
-                <p class="type">Monday Merch</p>
+                <p class="date">Sep 2024 – Nov 2024</p>
+                <h2>Front-end Engineer</h2>
+                <p class="type">24markets.com · Freelance</p>
               </li>
               <li>
-                <p class="date">Jun 2023 – Dec 2023</p>
-                <h2>Full Stack Developer</h2>
-                <p class="type">TRP</p>
+                <p class="date">Jan 2024 – Sep 2024</p>
+                <h2>Front-end Engineer</h2>
+                <p class="type">Monday Merch · Full-time</p>
+              </li>
+              <li>
+                <p class="date">Jul 2023 – Dec 2023</p>
+                <h2>Full Stack Engineer</h2>
+                <p class="type">
+                  Telecom Radio Professionnel (TRP) · Freelance
+                </p>
               </li>
               <li>
                 <p class="date">Oct 2022 – Jun 2023</p>
                 <h2>Software Engineer & Co-founder</h2>
-                <p class="type">Shortcut</p>
+                <p class="type">Shortcut · Full-time</p>
               </li>
               <li>
                 <p class="date">May 2022 – Oct 2022</p>
-                <h2>Junior Software Engineer</h2>
-                <p class="type">Sig-Service</p>
+                <h2>Front-end & Mobile Engineer</h2>
+                <p class="type">SIG Service · Full-time</p>
               </li>
             </ul>
           </div>

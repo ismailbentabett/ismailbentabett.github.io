@@ -1,6 +1,6 @@
  <script setup>
  useHead({
-   title: "Ismail Bentabet Works - Freelance Full Stack Engineer | Laravel, Vue.js, Nuxt.js, TypeScript",
+   title: "Ismail Bentabet Works -Expert Front-End Developer | Angular | Vue | React, TypeScript",
  })
  </script>
 <template> 
